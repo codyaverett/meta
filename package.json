@@ -1,0 +1,22 @@
+{
+  "name": "@caavere/create-meta",
+  "version": "1.0.0",
+  "description": "creates a new meta folder from a meta repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyaverett/meta.git"
+  },
+  "author": "Cody Averett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codyaverett/meta/issues"
+  },
+  "homepage": "https://github.com/codyaverett/meta#readme",
+  "devDependencies": {
+    "meta-npm": "^1.0.2"
+  }
+}
